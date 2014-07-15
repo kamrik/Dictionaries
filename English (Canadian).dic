@@ -25447,6 +25447,7 @@ corbelled
 corbelling/S
 cord's/F
 cord/EMDAGS
+cordova
 cordage/MS
 corder/MA
 cordial/PYS
@@ -33698,6 +33699,7 @@ girth/MDG
 girths
 gist/SM
 git/M
+github/M
 give/HZRSG
 giveaway/SM
 giveback/S
@@ -37602,11 +37604,11 @@ inspirer/M
 inspiring/U
 inspirit/GD
 inst/B
-install/BZGR
-installation/SM
-installed/A
+install/BZGRU
+installation/SMU
+installed/AU
 installer/M
-installs/A
+installs/AU
 instalment/MS
 instance/DG
 instant/SRYMP
@@ -47342,6 +47344,8 @@ pluggable
 plugged/UA
 plugging/UA
 plughole
+plugin/SM
+plugman/M
 plum/GSMD
 plumage/DSM
 plumb/MRDJZGS
